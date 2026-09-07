@@ -1,0 +1,85 @@
+name: Bug report
+description: Report a reproducible issue in Vita
+title: "[Bug] "
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the issue and what you were doing when it occurred.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open Vita
+        2. Select ...
+        3. Enable ...
+        4. Observe ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+
+  - type: input
+    id: vita-version
+    attributes:
+      label: Vita version
+      placeholder: e.g. 1.3.5
+    validations:
+      required: true
+
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      placeholder: e.g. macOS 15.6
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source app
+      placeholder: e.g. Music, Safari, Chrome
+
+  - type: input
+    id: output
+    attributes:
+      label: Output device
+      placeholder: e.g. MacBook Speakers, Element III
+
+  - type: dropdown
+    id: vitalizer
+    attributes:
+      label: Vitalizer enabled?
+      options:
+        - "Yes"
+        - "No"
+        - "Vitalizer is not installed"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: eq
+    attributes:
+      label: Parametric EQ enabled?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add screenshots, logs, or any other details that may help reproduce the issue.
