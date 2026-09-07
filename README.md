@@ -10,3 +10,6 @@ This repository is used for:
 - Public bug reports and issue tracking
 
 The Vita source code is maintained separately in a private repository.
+
+- [Security](SECURITY.md)
+- [Privacy](PRIVACY.md)
