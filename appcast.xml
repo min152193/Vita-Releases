@@ -18,7 +18,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 - Requires signed Sparkle feeds and verifies updates before extraction.
 - Marks this build as the public update-path test release.
 ]]></description>
-            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.3.6/Vita-1.3.6.zip" length="2996012" type="application/octet-stream" sparkle:edSignature="HwUlb7aZtlbVobIRyToHuoJrHKr2lDSB1eUDyieTNaTSycXPNj/dXvpkGkbuM2oeUHbjIWdjWEb4GRvU+fxjDQ=="/>
+            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.3.6/Vita-1.3.6.zip" length="2994472" type="application/octet-stream" sparkle:edSignature="d2nnZM6PSMQ8WWVigbcGH0WlbRchkKP3xbczDQjbmCPvZrHZmzT35w8aoP7dbJ+CduntwGHmXXTVRoF2geL/CA=="/>
         </item>
         <item>
             <title>1.3.5</title>
@@ -42,6 +42,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 8q5KTrs7ZG8N8znjH5jtELjGYa8xNnl/4A7tGE49aovrbpMaJm039R5kyaBN+xWm26Qg535uOTL+UIyEsIq3AA==
+edSignature: e8kSuloASAmgXhC92w5KsXRBPB4j98VcFd+KsYHOERZVHlp/Ps6h+eMS+tJHD2Rb0gkNmhkjW9/h7FKIXS+qDw==
 length: 2831
 -->
