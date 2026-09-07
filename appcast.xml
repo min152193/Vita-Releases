@@ -1,6 +1,8 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Vita</title>
         <item>
@@ -16,7 +18,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 - Requires signed Sparkle feeds and verifies updates before extraction.
 - Marks this build as the public update-path test release.
 ]]></description>
-            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.3.6/Vita-1.3.6.zip" length="2988990" type="application/octet-stream" sparkle:edSignature="tDdIWCb+1oPnCeax3f8EETMNHjMzVQQTa15JP0brRNxyJGOCU4d4LtPBH5n/eirSHyScjHlf47WHFgMV3R8kCg=="></enclosure>
+            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.3.6/Vita-1.3.6.zip" length="2996012" type="application/octet-stream" sparkle:edSignature="HwUlb7aZtlbVobIRyToHuoJrHKr2lDSB1eUDyieTNaTSycXPNj/dXvpkGkbuM2oeUHbjIWdjWEb4GRvU+fxjDQ=="/>
         </item>
         <item>
             <title>1.3.5</title>
@@ -35,10 +37,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 - Added Launch at Login and an in-app bug report form with optional bounded diagnostics.
 - Configured the production Sparkle feed and signing public key.
 ]]></description>
-            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.3.5/Vita-1.3.5.zip" length="1489930" type="application/octet-stream" sparkle:edSignature="T9LdmUwQ2FhyYqbPCRL6i/MjOmj6uCZsnYPgMRwjnN7FzPqroHHWD+uUvYSSsfLkvDDzeQvRq6N9b3cE/8vBDQ=="></enclosure>
+            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.3.5/Vita-1.3.5.zip" length="1489930" type="application/octet-stream" sparkle:edSignature="T9LdmUwQ2FhyYqbPCRL6i/MjOmj6uCZsnYPgMRwjnN7FzPqroHHWD+uUvYSSsfLkvDDzeQvRq6N9b3cE/8vBDQ=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: fQYpRJt5Lm/Wz8Y+lK76nME9TtEKfYE050M2SXSUdEqm8sAlt+mngxKqtjiE0yKqfB2HxmGdb/Z5T+uFaXRNCw==
-length: 2850
+</rss>
+<!-- sparkle-signatures:
+edSignature: 8q5KTrs7ZG8N8znjH5jtELjGYa8xNnl/4A7tGE49aovrbpMaJm039R5kyaBN+xWm26Qg535uOTL+UIyEsIq3AA==
+length: 2831
 -->
