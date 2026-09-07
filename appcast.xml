@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Vita</title>
+        <item>
+            <title>1.3.5</title>
+            <pubDate>Mon, 07 Sep 2026 15:17:07 +0000</pubDate>
+            <sparkle:version>1003005</sparkle:version>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Vita 1.3.5
+
+- Vita now runs its EQ path when SPL Vitalizer is not installed.
+- Added an independent Vitalizer switch in Settings. The main Enabled switch continues to control the complete audio route.
+- Added the Vita name and version to the Settings footer.
+- Custom parametric EQ presets now support up to 12 bands, including TXT import and export.
+- Reconfigured the Vitalizer Audio Unit when the output sample rate changes.
+- Removed a realtime lock wait from the EQ render callback and hardened imported filter values.
+- Added Launch at Login and an in-app bug report form with optional bounded diagnostics.
+- Configured the production Sparkle feed and signing public key.
+]]></description>
+            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.3.5/Vita-1.3.5.zip" length="1489930" type="application/octet-stream" sparkle:edSignature="T9LdmUwQ2FhyYqbPCRL6i/MjOmj6uCZsnYPgMRwjnN7FzPqroHHWD+uUvYSSsfLkvDDzeQvRq6N9b3cE/8vBDQ=="/>
+        </item>
+    </channel>
+</rss>
