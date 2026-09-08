@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Vita</title>
         <item>
+            <title>1.3.9</title>
+            <pubDate>Tue, 08 Sep 2026 19:38:15 +0000</pubDate>
+            <sparkle:minimumUpdateVersion>1003006</sparkle:minimumUpdateVersion>
+            <sparkle:version>1003009</sparkle:version>
+            <sparkle:shortVersionString>1.3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Vita 1.3.9
+
+- Expands custom parametric EQ presets to 32 bands.
+- Supports up to 10 custom EQ presets with bounded scrolling for long lists.
+- Organizes settings into Audio, Processing, and General tabs.
+- Adds adjustable headphone crossfeed with a 0–2 ms interaural delay.
+- Fixes a crash when the output device or sample rate changes while crossfeed is active.
+]]></description>
+            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.3.9/Vita-1.3.9.zip" length="1570224" type="application/octet-stream" sparkle:edSignature="qT+uUUz/1ZHMKDjZAM0f7ZDOcUXdWyFwSxJseJcST5vfmpzYAriteXocR44rmpz8Pgt7cqVvLtqa2DjgDESwAg=="/>
+        </item>
+        <item>
             <title>1.3.7</title>
             <pubDate>Mon, 07 Sep 2026 17:08:23 +0000</pubDate>
             <sparkle:minimumUpdateVersion>1003006</sparkle:minimumUpdateVersion>
@@ -57,6 +74,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: R5yejco6RB4ZwSbqIVtyc5nnu1lj1W5YOEH8AMu3kVxZt3ADfnH/unPUm8p9f44ew4O+K8w6frkIw6IIO1g9DQ==
-length: 3853
+edSignature: EixwclcxgTqFo2ddie9GNCMAkND1Nd2A/xqObrx3NUiXTN9mFLlt2MpOIIHA0FbXVZ3qs8qY2AstiTGz2zJuAA==
+length: 4988
 -->
