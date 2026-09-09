@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Vita</title>
         <item>
+            <title>1.3.10</title>
+            <pubDate>Wed, 09 Sep 2026 12:25:37 +0000</pubDate>
+            <sparkle:minimumUpdateVersion>1003006</sparkle:minimumUpdateVersion>
+            <sparkle:version>1003010</sparkle:version>
+            <sparkle:shortVersionString>1.3.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Vita 1.3.10
+
+- Adds Auto Preamp for custom EQ presets, calculated from the combined response of enabled bands.
+- Fixes custom EQ selection not reaching the audio processor from Settings.
+- Fixes Vitalizer processing being interrupted when its editor opens.
+- Fixes an out-of-bounds stereo AudioBufferList write and serializes audio graph reconfiguration.
+- Replaces the SwiftUI menu bar lifecycle with an AppKit status item and popover for improved stability.
+- Fixes the menu bar icon showing the previous audio state.
+]]></description>
+            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.3.10/Vita-1.3.10.zip" length="1583073" type="application/octet-stream" sparkle:edSignature="ARRQWzzJ2gOqKkcNMOvn7AK6V0Lg6c4UhFvMhwCYXC31xtUZp8o7EP3XliCo0bzbOmIi3Z7UIEdVuRaBQ6bwCg=="/>
+        </item>
+        <item>
             <title>1.3.9</title>
             <pubDate>Tue, 08 Sep 2026 19:38:15 +0000</pubDate>
             <sparkle:minimumUpdateVersion>1003006</sparkle:minimumUpdateVersion>
@@ -74,6 +92,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: EixwclcxgTqFo2ddie9GNCMAkND1Nd2A/xqObrx3NUiXTN9mFLlt2MpOIIHA0FbXVZ3qs8qY2AstiTGz2zJuAA==
-length: 4988
+edSignature: bfbmKZAOkabKykzZVATSanKt77Egw2oCBj7f4iUK/nXvAYcoakIBgOQhj76jeJIrs7L38PtOiSOdX9MqUB90DQ==
+length: 6282
 -->
