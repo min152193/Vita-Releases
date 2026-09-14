@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Vita</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Mon, 14 Sep 2026 11:38:32 +0000</pubDate>
+            <sparkle:minimumUpdateVersion>1003006</sparkle:minimumUpdateVersion>
+            <sparkle:version>1004000</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Vita 1.4.0
+
+- Adds Classic AirPlay as an audio source with artwork, metadata, playback progress, and remote transport controls.
+- Expands custom EQ to 32 bands and up to 10 presets, with bounded scrolling for larger configurations.
+- Adds channel balance and reorganizes audio, processing, and general settings.
+- Improves menu bar stability, audio graph recovery, device-change handling, and bounded diagnostics.
+]]></description>
+            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.4.0/Vita-1.4.0.zip" length="1968261" type="application/octet-stream" sparkle:edSignature="gnWWPJJ08pbrOGmA4Fe1rr/oHXh+5eXT/YP9TV+RrVMxVXtH2A4D3brtxyl/8MyDLCWEjcPU0+lglisXHCC5AA=="/>
+        </item>
+        <item>
             <title>1.3.11</title>
             <pubDate>Wed, 09 Sep 2026 12:57:00 +0000</pubDate>
             <sparkle:minimumUpdateVersion>1003006</sparkle:minimumUpdateVersion>
@@ -106,6 +122,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: GJOwDKJREHD3rSl7E7Wfvk8l9CNFmwLZoNHV1baGo/kihF2QvvXuz9h11I3cgLDzPir4NOkfm/g3SYKUziG/DQ==
-length: 7288
+edSignature: b38eCBvbK81qmDUEc81TwgVMkhQidByPiz8OozKhPjceJeW8RaU36tbwPoHn3Wf9u+i3sc/e6AYlQB4APs6BDw==
+length: 8472
 -->
