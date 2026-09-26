@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Vita</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Sat, 26 Sep 2026 19:35:06 +0000</pubDate>
+            <sparkle:minimumUpdateVersion>1003006</sparkle:minimumUpdateVersion>
+            <sparkle:version>1004001</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Vita 1.4.1
+
+- Adds a Plugin Rack for Audio Units, with plugin order, bypass, editor windows, and a dedicated Settings tab.
+- Shows PCM format and total plugin latency in the menu popover.
+- Keeps the menu and Settings ON/OFF switches visually unfocused when opened with a mouse, while retaining keyboard focus indication.
+- Refines menu and Settings spacing and removes the extra tick line below Channel Balance.
+]]></description>
+            <enclosure url="https://github.com/min152193/Vita-Releases/releases/download/v1.4.1/Vita-1.4.1.zip" length="2186088" type="application/octet-stream" sparkle:edSignature="uDk0IyQA4R3c81Lgws9Z9lFi4mYOUJsWjVUdOMXD9Y5BOKWXF6qJ5Lftrv+hX+Uty63lUNjo72jGSO0OMDLLDQ=="/>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Mon, 14 Sep 2026 11:38:32 +0000</pubDate>
             <sparkle:minimumUpdateVersion>1003006</sparkle:minimumUpdateVersion>
@@ -122,6 +138,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: b38eCBvbK81qmDUEc81TwgVMkhQidByPiz8OozKhPjceJeW8RaU36tbwPoHn3Wf9u+i3sc/e6AYlQB4APs6BDw==
-length: 8472
+edSignature: KtUxko8cgTAcyMm1DlV/Y+4gUU00VXExjYJkXoZ7+nRtpKhHWdvKU/R2BxAaElhSccZWAnbqDexRvkBSJNIyBw==
+length: 9655
 -->
